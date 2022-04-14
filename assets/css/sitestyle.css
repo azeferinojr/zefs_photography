@@ -5,3 +5,9 @@
 .booknowContainer {
     width: 900px;
 }
+
+.table-warning {
+    --bs-table-bg: #fffdbd;
+}
+
+
